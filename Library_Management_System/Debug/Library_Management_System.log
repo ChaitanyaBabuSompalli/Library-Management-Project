@@ -1,0 +1,3 @@
+﻿  Library_Management_System.cpp
+C:\Users\chait\source\repos\Library_Management_System\Library_Management_System.cpp(33,27): warning C4018: '<': signed/unsigned mismatch
+  Library_Management_System.vcxproj -> C:\Users\chait\source\repos\Library_Management_System\Debug\Library_Management_System.exe
